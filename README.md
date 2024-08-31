@@ -8,11 +8,11 @@
 -----------------------------------
 # 실습파일 제출 요령
 
-개인 깃허브로 업로드 
-git add .
-git commit –m "1주차 실습파일"
-git pull 
-git push -u origin main
+개인 깃허브로 업로드 <br><br>
+git add .  <br>
+git commit –m "1주차 실습파일" <br>
+git pull <br>
+git push -u "origin" main:main <br>
 
 <br><br>
 
